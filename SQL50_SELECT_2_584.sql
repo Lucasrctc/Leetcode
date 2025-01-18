@@ -1,0 +1,1 @@
+SELECT name FROM Customer WHERE NULLIF(2, referee_id) IS NOT null
